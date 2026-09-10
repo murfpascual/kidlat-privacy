@@ -1,3 +1,4 @@
+title: " "
 
 # Kidlat: Sparks of Ideas — Privacy Policy
 
