@@ -1,7 +1,3 @@
----
-layout: default
-title: "Privacy Policy – Kidlat: Sparks of Ideas"
----
 
 # Kidlat: Sparks of Ideas — Privacy Policy
 
