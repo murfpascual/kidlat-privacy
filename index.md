@@ -1,5 +1,3 @@
-title: " "
-
 # Kidlat: Sparks of Ideas — Privacy Policy
 
 **Last Updated:** September 2026
